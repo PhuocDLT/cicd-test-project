@@ -106,3 +106,4 @@ function phepTru(a, b) {
     return a - b;
 }
 console.log("Da them method phepTru thanh cong!");
+//test lại
