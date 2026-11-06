@@ -103,7 +103,11 @@ if (process.env.NODE_ENV !== 'test') {
 module.exports = app;
 
 function phepTru(a, b) {
-    return a - b;
+    return a * b;
 }
 console.log("Da them method phepTru thanh cong!");
 //test lại đổi tên file
+function phepChia(a, b) {
+    return a / b;
+}
+console.log("Da them method phepTru thanh cong!");
